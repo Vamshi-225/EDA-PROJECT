@@ -1,0 +1,710 @@
+,Mobile_Name,Color,Brand,ROM,MRP_Price,Selling_Price,Discount
+0,Redmi 14C 5G,Stargaze Black,,128,"14,999",10824,27
+1,Realme Narzo 80 Lite 5G,Onyx Black,,128,"14,999",11875,20
+2,realme Narzo 80 Lite 4G,Beach Gold,Redmi,128,"10,999",8284,24
+3,redmi 13 5G,Hawaiian Blue,Realme,128,"17,999",13180,26
+4,redmi 13 5G,Black Diamond,realme,128,"17,999",12984,27
+5,,Cyber Green,redmi,,"1,799",934,48
+6,IQOO Z10 Lite 5G,Cyber Green,redmi,128,"14,999",12601,15
+7,IQOO Z10 Lite 5G,Titanium Blue,Micromax,128,"13,999",11602,17
+8,IQOO Z10 Lite 5G,Titanium Blue,IQOO,128,"14,999",12601,15
+9,IQOO Z10 Lite 5G,Sparkle Purple,IQOO,128,"13,999",11602,17
+10,REDMI A4,Starry Black,IQOO,64,"10,999",8784,20
+11,Redmi A4,Titanium,IQOO,64,"10,999",8784,20
+12,IQOO Z10X 5G,Ultramarine,REDMI,128,"17,499",14604,16
+13,IQOO Z10X 5G,stellar blue/ steller blue,Redmi,128,"17,499",14604,16
+14,Lava Shark 5G,Midnight Blue,IQOO,64,"10,999",8617,21
+15,,Blue,IQOO,,"1,899",924,51
+16,HMD Crest 5G,Golden,Lava,128,"18,999",9620,49
+17,ringme BOLD P70,Orchid Pink,Micromax,128,"9,999",5785,42
+18,ringme BOLD P70,Nebula Noir,HMD,128,"9,999",5685,43
+19,REDMI 13 5G,stellar gold /steller gold,ringme,128,"17,999",13180,26
+20,ONEPLUS 13R 5G,Midnight Blue,ringme,256,"44,999",37984,15
+21,Lava Shark 5G,Speed Blue,REDMI,64,"10,999",9085,17
+22,hmd Crest 5G,Speed Blue,ONEPLUS,128,"18,999",10484,44
+23,realme Narzo 50,Blazing Black,Lava,128,"17,999",17984,40
+24,realme Narzo 50,Pantone Fluidity,hmd,64,"15,999",15984,27
+25,,Silver Stardust,realme,,"2,099",1253,38
+26,SAMSUNG M06 5G,Titanium Gold,,128,"15,499",11175,22
+27,,Prism Blue,,,"2,099",1282,24
+28,MOTOROLA g57 power 5G,Titanium Gold,realme,128,"17,999",13999,14
+29,POCO C75 5G,Lake Green,Micromax,64,"10,999",8299,13
+30,vivo T4 Lite 5G Charger in the Box,Matte Silver,SAMSUNG,128,"13,999",11999,11
+31,vivo T4 Lite 5G Charger in the Box,Elegant Pink,Micromax,128,"14,999",12999,16
+32,vivo T4 Lite 5G Charger in the Box,Elegant Pink,MOTOROLA,256,"16,999",14999,16
+33,realme P4x 5G,Lake Green,POCO,128,"17,999",14999,16
+34,realme P4x 5G,Matte Silver,vivo,128,"17,999",14999,13
+35,realme P4x 5G,Prism Blue,vivo,128,"17,999",14999,13
+36,realme P4x 5G,PANTONE Mykonos Blue,vivo,128,"18,999",16499,13
+37,realme P4x 5G,Pantone Corsair,realme,128,"18,999",16499,11
+38,realme P4x 5G,PANTONE Amazonite,realme,128,"18,999",16499,15
+39,vivo T4 Lite 5G Charger in the Box,Lake Green,realme,256,"16,999",14999,22
+40,MOTOROLA Edge 60 Fusion 5G,Matte Silver,realme,256,"25,999",21999,15
+41,MOTOROLA g57 power 5G,Enchanted Green,realme,128,"17,999",13999,11
+42,MOTOROLA Edge 60 Fusion 5G,Black,realme,256,"25,999",21999,11
+43,realme P4x 5G,Obsidian,vivo,256,"20,999",18499,24
+44,realme P4x 5G,Pantone Greener Pastures,MOTOROLA,256,"20,999",18499,7
+45,POCO C75 5G,Pantone Regatta,MOTOROLA,64,"10,999",8299,20
+46,Apple iPhone 16,Porcelain,MOTOROLA,128,"69,900",64900,17
+47,Google Pixel 9A,Marine Blue,realme,256,"49,999",39999,22
+48,MOTOROLA G96 5G,Glacial Teal,realme,256,"22,999",18999,20
+49,MOTOROLA g57 power 5G,Glacial Teal,POCO,128,"17,999",13999,13
+50,Google Pixel 9A,Pantone Walnut,Apple,256,"49,999",39999,13
+51,vivo T4x 5G,Pronto Purple,Google,128,"17,999",15499,15
+52,vivo T4x 5G,Pantone Dresden Blue,MOTOROLA,128,"17,999",15499,21
+53,vivo T4x 5G,Titan Black,MOTOROLA,128,"19,499",16499,15
+54,MOTOROLA Edge 60 Pro,Pronto Purple,Google,256,"36,999",28999,17
+55,vivo T4x 5G,Phantom Grey,vivo,128,"19,499",16499,32
+56,MOTOROLA G96 5G,Teal,vivo,256,"22,999",18999,13
+57,REDMI Note 14 SE 5G,Emerald Blaze,vivo,128,"19,999",13499,10
+58,vivo T4x 5G,Pantone Golden Cypress,MOTOROLA,128,"17,999",15499,7
+59,vivo T4 5G,Midnight Black,vivo,256,"29,999",26999,10
+60,Apple iPhone 16,Marine Blue,MOTOROLA,128,"69,900",64900,15
+61,vivo T4 5G,Emerald Blaze,REDMI,256,"29,999",26999,12
+62,MOTOROLA G86 Power 5G,PANTONE Mykonos Blue,vivo,128,"19,999",16999,11
+63,MOTOROLA g35 5G,Marine Blue,vivo,128,"12,499",10999,10
+64,vivo T4x 5G,Pronto Purple,Apple,256,"20,999",18499,14
+65,vivo T4 5G,Phantom Grey,vivo,256,"27,999",24999,15
+66,MOTOROLA Edge 60 Fusion 5G,Pink,MOTOROLA,256,"27,999",23999,11
+67,vivo T4x 5G,Emerald Blaze,MOTOROLA,128,"19,499",16499,10
+68,vivo T4x 5G,Prism Blue,vivo,256,"20,999",18499,7
+69,vivo T4 5G,PANTONE Amazonite,vivo,256,"27,999",24999,11
+70,Apple iPhone 16,Pantone tapestry,MOTOROLA,128,"69,900",64900,15
+71,vivo T4 5G,Orange,vivo,128,"25,999",22999,14
+72,vivo T4 Lite 5G Charger in the Box,Mystic Purple,vivo,64,"12,999",10999,20
+73,MOTOROLA Edge 60 Fusion 5G,Titanium Gold,vivo,256,"27,999",23999,21
+74,MOTOROLA g06 power,Icy Purple,Apple,64,"9,999",7999,17
+75,CMF by Nothing Phone 2 Pro,Icy Purple,vivo,128,"22,999",17999,15
+76,POCO C85 5G,Prism Black,vivo,128,"14,499",11999,12
+77,vivo T4 Lite 5G Charger in the Box,Light Green,MOTOROLA,64,"12,999",10999,13
+78,OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box,Light Green,MOTOROLA,256,"24,999",21999,13
+79,OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box,PANTONE Slipstream,CMF,128,"22,999",19999,20
+80,OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box,Black,POCO,128,"22,999",19999,21
+81,CMF by Nothing Phone 2 Pro,White,vivo,256,"24,999",19999,14
+82,CMF by Nothing Phone 2 Pro,Pantone Dresden Blue,OPPO,128,"22,999",17999,21
+83,MOTOROLA Edge 60 Fusion 5G,Mystic Purple,OPPO,256,"27,999",23999,21
+84,CMF by Nothing Phone 2 Pro,Black,OPPO,128,"22,999",17999,14
+85,CMF by Nothing Phone 2 Pro,Midnight Black,CMF,128,"22,999",17999,16
+86,MOTOROLA G96 5G,Frost White,CMF,128,"20,999",17999,20
+87,POCO C85 5G,Blue,MOTOROLA,128,"15,499",12999,16
+88,CMF by Nothing Phone 2 Pro,Leaf Green,CMF,256,"24,999",19999,10
+89,MOTOROLA g35 5G,Glacial Blue,CMF,128,"15,499",12999,12
+90,POCO F7 5G,Pantone Dazzling Blue,MOTOROLA,512,"37,999",33999,16
+91,Ai+ Pulse,Ultramarine,POCO,64,"7,999",6999,12
+92,MOTOROLA g35 5G,Prism Black,CMF,128,"15,499",12999,21
+93,POCO M8,Nexus Blue,MOTOROLA,256,"24,999",21999,12
+94,MOTOROLA Edge 60 Pro,Titanium,POCO,256,"36,999",28999,12
+95,IQOO Z10X 5G,Twilight Blue,Ai,256,"20,499",17980,13
+96,OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box,Black Infinity,MOTOROLA,256,"24,999",21999,8
+97,OnePlus Nord CE5 5G,Pantone Parachute,POCO,128,"24,999",24818,11
+98,IQOO Z10X 5G,Nexus Blue,MOTOROLA,128,"18,999",16480,15
+99,vivo T4R 5G,Arctic White,IQOO,256,"24,999",22999,10
+100,OnePlus Nord CE5 5G,Marble Odyssey,OPPO,256,"30,999",27549,13
+101,MOTOROLA g67 power 5G,Marble Sands,OnePlus,128,"18,999",15999,14
+102,OnePlus Nord CE5 5G,Mystique White,IQOO,256,"26,999",26995,20
+103,vivo T4R 5G,Marble Sands,vivo,128,"23,499",20999,11
+104,OnePlus 11 5G,Mystique White,OnePlus,256,"64,999",64984,11
+105,Oneplus Nord 5 5G,Gold,MOTOROLA,256,"37,999",37975,27
+106,REDMI Note 14 5G,Titanium Gold,OnePlus,128,"22,999",22984,17
+107,Oneplus Nord 5 5G,Prism Blue,vivo,256,"37,999",37975,8
+108,REDMI Note 14 5G,Iris,OnePlus,128,"22,999",22984,17
+109,SIA PRO 5+ Golden smallest Phone,Phantom Grey,Oneplus,64,"14,999",12999,20
+110,vivo T4 Lite 5G Charger in the Box,Glacial Teal,REDMI,128,"13,999",11999,27
+111,vivo T4 Lite 5G Charger in the Box,Plum Red,Oneplus,128,"49,999",39999,20
+112,Google Pixel 9A,Pantone Ashleigh Blue,REDMI,256,"25,999",22999,24
+113,vivo T4 5G,Black,SIA,128,"20,999",18499,26
+114,vivo T4x 5G,Sunset Peach,vivo,256,"9,999",7299,27
+115,MOTOROLA g05,White,vivo,64,"22,999",18999,48
+116,MOTOROLA G96 5G,Stargaze Black,Google,256,"59,900",54900,15
+117,Apple iPhone 15,Onyx Black,vivo,128,"16,999",13999,17
+118,OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI,Beach Gold,vivo,128,"24,999",19999,15
+119,CMF by Nothing Phone 2 Pro,Hawaiian Blue,MOTOROLA,256,"14,999",10824,17
+120,Redmi 14C 5G,Black Diamond,MOTOROLA,128,"14,999",11875,20
+121,Realme Narzo 80 Lite 5G,Cyber Green,Apple,128,"10,999",8284,20
+122,realme Narzo 80 Lite 4G,Cyber Green,OPPO,128,"17,999",13180,16
+123,redmi 13 5G,Titanium Blue,CMF,128,"17,999",12984,16
+124,redmi 13 5G,Titanium Blue,,128,"1,799",934,21
+125,,Sparkle Purple,,,"14,999",12601,51
+126,IQOO Z10 Lite 5G,Starry Black,Redmi,128,"13,999",11602,49
+127,IQOO Z10 Lite 5G,Titanium,Realme,128,"14,999",12601,42
+128,IQOO Z10 Lite 5G,Ultramarine,realme,128,"13,999",11602,43
+129,IQOO Z10 Lite 5G,stellar blue/ steller blue,redmi,128,"10,999",8784,26
+130,REDMI A4,Midnight Blue,redmi,64,"10,999",8784,15
+131,Redmi A4,Blue,Micromax,64,"17,499",14604,17
+132,IQOO Z10X 5G,Golden,IQOO,128,"17,499",14604,44
+133,IQOO Z10X 5G,Orchid Pink,IQOO,128,"10,999",8617,27
+134,Lava Shark 5G,Nebula Noir,IQOO,64,"1,899",924,40
+135,,stellar gold /steller gold,IQOO,,"18,999",9620,38
+136,HMD Crest 5G,Midnight Blue,REDMI,128,"9,999",5785,10
+137,ringme BOLD P70,Speed Blue,Redmi,128,"9,999",5685,7
+138,ringme BOLD P70,Speed Blue,IQOO,128,"17,999",13180,25
+139,REDMI 13 5G,Speed Blue,IQOO,128,"44,999",37984,7
+140,ONEPLUS 13R 5G,Blazing Black,Lava,256,"10,999",9085,14
+141,Lava Shark 5G,Arctic White,Micromax,64,"18,999",10484,13
+142,hmd Crest 5G,Twilight Blue,HMD,128,"17,999",17984,12
+143,realme Narzo 50,Nexus Blue,ringme,128,"17,999",17984,22
+144,realme Narzo 50,Green,ringme,128,"15,999",15984,11
+145,realme Narzo 50,Arctic White,REDMI,64,"15,499",11175,19
+146,SAMSUNG M06 5G,Ultramarine,ONEPLUS,128,"2,099",1253,29
+147,,Titanium,Lava,,"2,099",1282,20
+148,,Leaf Green,hmd,,"23,499",20999,20
+149,vivo T4R 5G,Sparkle Red,realme,128,"26,999",24999,7
+150,vivo T4R 5G,Safari Green,,256,"26,999",26995,25
+151,OnePlus Nord CE5 5G,Marble Black,,256,"9,999",7499,14
+152,Samsung Galaxy F07,Bahama Blue,realme,64,"26,999",24999,25
+153,vivo T4R 5G,Oasis Green,realme,256,"17,499",14990,18
+154,IQOO Z10X 5G,Pantone Tendril,SAMSUNG,128,"17,499",15170,7
+155,IQOO Z10X 5G,Ultramarine,Micromax,128,"12,499",10999,15
+156,MOTOROLA g35 5G,Silver Shadow,Micromax,128,"10,999",8499,19
+157,Ai+ Nova 5G,PANTONE Gadget Gray,vivo,128,"8,999",7999,7
+158,realme C61,Oasis Green,vivo,64,"8,999",7249,28
+159,realme C61,Starry Black,OnePlus,64,"15,499",10999,4
+160,Samsung Galaxy F06 5G,Lily White,Samsung,128,"19,999",15999,3
+161,Tecno Pova 7 5G,Pantone Curacao Blue,vivo,256,"9,999",7999,12
+162,MOTOROLA g06 power,Sparkle Purple,IQOO,64,"69,900",64900,28
+163,Apple iPhone 16,Midnight Lily,IQOO,128,"99,999",74999,13
+164,Samsung Galaxy S25 Plus 5G,Lunar Dust,MOTOROLA,256,"34,999",29999,12
+165,MOTOROLA Edge 70,Dry Ice,Ai,256,"18,999",14249,23
+166,Tecno Pova 7 5G,Dry Ice,realme,128,"12,999",10621,14
+167,REDMI A4,Titanium,realme,128,"13,999",12999,14
+168,realme P3 Lite 5G Charger in the Box,Lit Violet,Samsung,128,"18,999",15999,6
+169,MOTOROLA g67 power 5G,Frost Silver,Tecno,128,"12,999",10430,11
+170,REDMI A4,3a) Pro (Grey,MOTOROLA,128,"13,999",12999,11
+171,realme P3 Lite 5G Charger in the Box,Lunar Silver,Apple,128,"18,999",13499,22
+172,POCO M7 Pro 5G,Pantone Greener Pastures,Samsung,128,"34,999",33495,8
+173,OnePlus Nord 5 5G,Power Black,MOTOROLA,256,"37,999",36750,14
+174,OnePlus Nord 5 5G,Obsidian,Tecno,256,"20,499",17980,10
+175,IQOO Z10X 5G,Phantom Grey,REDMI,256,"12,499",8999,19
+176,Samsung Galaxy F06 5G,3a) Pro (Grey,realme,64,"22,999",19999,20
+177,POCO M8,3a) Pro (Black,MOTOROLA,128,"32,999",28999,14
+178,Nothing Phone,Midnight Blue,REDMI,128,"16,999",12999,17
+179,realme P3x 5G,Glacier White,realme,128,"20,999",17999,7
+180,MOTOROLA G96 5G,PANTONE Lily Pad,POCO,128,"16,999",14499,37
+181,POCO C85 5G,3a) Pro (Black,OnePlus,128,"79,999",74999,15
+182,Google Pixel 10,Aqua Bliss,OnePlus,256,"40,999",40898,17
+183,OnePlus Nord 5 5G,Pantone Laurel Oak,IQOO,512,"34,999",30999,8
+184,Nothing Phone,Pantone Cattleya Orchid,Samsung,256,"34,999",30999,19
+185,Nothing Phone,Spring Green,POCO,256,"17,999",13999,5
+186,realme P3x 5G,Purple Blossom,Nothing,128,"49,999",45999,23
+187,OPPO Reno15 5G,Awesome Navy,realme,256,"34,999",29999,12
+188,MOTOROLA Edge 70,Crystal Purple,MOTOROLA,256,"36,999",32999,14
+189,Nothing Phone,Aqua Blue,POCO,256,"11,499",9299,14
+190,POCO C75 5G,Twilight Blue,Google,128,"9,999",7999,14
+191,MOTOROLA g06 power,Silver Stardust,OnePlus,64,"20,999",17999,22
+192,MOTOROLA G96 5G,3) (Black,Nothing,128,"14,499",11999,17
+193,POCO C85 5G,Black Infinity,Nothing,128,"13,999",12999,12
+194,realme P3 Lite 5G Charger in the Box,Stellar Pink,realme,128,"42,999",26978,7
+195,Samsung Galaxy A55 5G,3a) Pro (Black,OPPO,128,"13,999",11883,7
+196,realme Narzo 80 Lite 5G,Blaze Gold,MOTOROLA,128,"16,999",13999,1
+197,POCO M7 Plus 5G,Nitro Blue,Nothing,128,"49,999",45999,13
+198,OPPO Reno15 5G,Onyx Black,POCO,256,"11,499",9299,24
+199,POCO C75 5G,Stellar Pink,MOTOROLA,128,"94,999",89999,20
+200,Nothing Phone,Desert Gold,MOTOROLA,512,"24,999",24798,28
+201,OnePlus Nord CE5 5G,Sparkle Red,POCO,128,"16,999",12999,13
+202,realme P3x 5G,Midnight Lily,realme,128,"32,999",28999,10
+203,Nothing Phone,Lily White,Samsung,128,"34,999",29999,22
+204,vivo T4 Pro 5G,Dry Ice,realme,256,"34,999",29999,44
+205,vivo T4 Pro 5G,Frost Silver,POCO,256,"13,999",11913,8
+206,realme Narzo 80 Lite 5G,Awesome Olive,OPPO,128,"17,999",13999,11
+207,realme P3x 5G,Sparkle Purple,POCO,128,"9,999",8299,25
+208,POCO C71,Yellow,Nothing,128,"7,999",6999,25
+209,Ai+ Pulse,Nitro Blue,OnePlus,64,"12,999",11999,15
+210,realme P3 Lite 5G Charger in the Box,Titanium Blue,realme,128,"12,999",11999,19
+211,realme P3 Lite 5G Charger in the Box,Flash Blue,Nothing,128,"34,999",34644,14
+212,OnePlus Nord 5 5G,Awesome Iceblue,vivo,256,"21,999",18999,20
+213,POCO M8,Sky Blue,vivo,128,"52,999",40249,44
+214,Samsung Galaxy A56 5G,Forge Red,realme,256,"11,999",9579,19
+215,REDMI A4,Marble Sands,realme,128,"31,999",22999,13
+216,POCO X7 Pro 5G,Marble Odyssey,POCO,256,"36,999",31999,7
+217,vivo T4 Pro 5G,Marble Sands,Ai,256,"16,999",15144,27
+218,IQOO Z10 Lite 5G,Mystique White,realme,256,"16,999",13229,27
+219,realme Narzo 90x 5G,Mystique White,realme,128,"33,999",18999,20
+220,Samsung Galaxy A35 5G,Gold,OnePlus,128,"11,999",10999,26
+221,Tecno Spark Go 5G,Safari Green,POCO,128,"20,999",18499,27
+222,realme P4 5G,Marble Black,Samsung,128,"37,999",37975,48
+223,Oneplus Nord 5 5G,Pantone Spellbound,REDMI,256,"64,999",64984,20
+224,OnePlus 11 5G,Ocean Blue,POCO,256,"37,999",37975,20
+225,Oneplus Nord 5 5G,PANTONE Zephyr,vivo,256,"22,999",22984,16
+226,REDMI Note 14 5G,Geek Black,IQOO,128,"22,999",22984,16
+227,REDMI Note 14 5G,Marble Gray,realme,128,"10,999",8199,51
+228,SIA PRO 5+ Golden smallest Phone,Pantone Shadow,Samsung,64,"10,999",8199,49
+229,realme C61,Pantone Sparkling Grape,Tecno,128,"19,999",16999,26
+230,realme C61,Purple Blossom,realme,128,"12,999",10499,44
+231,MOTOROLA G86 Power 5G,Forest Green,Oneplus,128,"27,999",23999,40
+232,POCO M7 5G,Stargaze Black,OnePlus,128,"19,999",15999,38
+233,MOTOROLA Edge 60 Fusion 5G,Onyx Black,Oneplus,256,"74,999",41999,17
+234,Tecno Pova 7 5G,Hawaiian Blue,REDMI,256,"40,999",32999,40
+235,Samsung Galaxy S24 5G Snapdragon,Black Diamond,REDMI,128,"42,999",36999,19
+236,MOTOROLA Edge 60 Pro,Sparkle Purple,SIA,256,"12,999",11999,30
+237,MOTOROLA Edge 60 Pro,Starry Black,realme,512,"9,999",7299,8
+238,realme P3 Lite 5G Charger in the Box,Titanium,realme,128,"14,999",10824,13
+239,MOTOROLA g05,Ultramarine,MOTOROLA,64,"14,999",11875,22
+240,Redmi 14C 5G,Midnight Blue,POCO,128,"17,999",13180,27
+241,Realme Narzo 80 Lite 5G,Orchid Pink,MOTOROLA,128,"17,999",12984,40
+242,redmi 13 5G,Midnight Blue,Tecno,128,"1,799",934,38
+243,redmi 13 5G,Speed Blue,Samsung,128,"10,999",8784,26
+244,,Speed Blue,MOTOROLA,,"10,999",8784,25
+245,REDMI A4,Carbon Black,MOTOROLA,64,"17,499",14604,26
+246,Redmi A4,Marble White,realme,64,"17,499",14604,29
+247,IQOO Z10X 5G,Starry Black,MOTOROLA,128,"1,899",924,15
+248,IQOO Z10X 5G,Mystique White,,128,"18,999",9620,13
+249,,Pink,,,"17,999",13180,3
+250,HMD Crest 5G,Dynamic Grey,,128,"18,999",10484,28
+251,REDMI 13 5G,Nitro Blue,,128,"17,999",17984,24
+252,hmd Crest 5G,Speed Blue,Redmi,128,"15,999",15984,25
+253,realme Narzo 50,Speed Blue,Realme,128,"2,099",1253,28
+254,realme Narzo 50,Blazing Black,redmi,64,"2,099",1282,15
+255,,Green,redmi,,"16,999",13999,26
+256,,Navy,Micromax,,"36,999",21999,12
+257,POCO M7 Plus 5G,Velvet Black / Black,REDMI,128,"11,999",9623,12
+258,OPPO F29 Pro 5G,Lit Violet,Redmi,256,"19,999",13999,21
+259,REDMI A4,Nitro Blue,IQOO,128,"59,900",54900,13
+260,REDMI Note 14 SE 5G,Blaze Gold,IQOO,128,"21,999",18999,11
+261,Apple iPhone 15,Marble Sands,Micromax,128,"16,999",13199,10
+262,Tecno Pova 7 Pro 5G,Bahama Blue,HMD,128,"17,999",17984,16
+263,realme Narzo 90x 5G,Starlight Blue,REDMI,128,"15,999",15984,11
+264,realme Narzo 50,Stargaze Black,hmd,128,"15,499",11175,40
+265,realme Narzo 50,Granite Black,realme,64,"2,099",1253,10
+266,SAMSUNG M06 5G,Blaze Gold,realme,128,"2,099",1282,11
+267,,Forest Green,Micromax,,"12,999",9499,11
+268,,Guava Red,Micromax,,"99,999",74999,40
+269,Ai+ Nova 5G,Black,POCO,128,"22,999",16890,39
+270,Samsung Galaxy S25 Plus 5G,Pantone Shadow,OPPO,256,"15,499",10999,16
+271,Samsung M36 5G,Astral Trail,REDMI,128,"32,999",27999,7
+272,Samsung Galaxy F06 5G,Nebula Noir,REDMI,128,"36,999",31999,18
+273,vivo T4 Pro 5G,IceSense Blue,Apple,128,"34,999",33635,10
+274,vivo T4 Pro 5G,Obsidian Black,Tecno,256,"13,999",9999,13
+275,OnePlus Nord 5 5G,Forge Red,realme,256,"14,999",11257,11
+276,Samsung Galaxy F06 5G,Graphite,,128,"13,999",10402,11
+277,REDMI 14C 5G,Marine Drift,,128,"32,999",23690,29
+278,REDMI 14C 5G,Mint Breeze,realme,128,"32,999",27999,10
+279,OPPO F29 Pro 5G,Charcoal Black,realme,128,"25,999",18999,18
+280,vivo T4 Pro 5G,Blue,SAMSUNG,128,"12,499",10999,18
+281,Motorola Edge 50 Fusion,Graphite,Micromax,128,"7,999",6999,12
+282,MOTOROLA g35 5G,Carbon Black,Micromax,128,"36,999",28999,11
+283,Ai+ Pulse,Black,Ai,64,"44,999",39027,11
+284,MOTOROLA Edge 60 Pro,Sparkle Purple,Samsung,256,"44,999",39830,30
+285,OnePlus 13R 5g,Beach Gold,Samsung,256,"46,999",41999,6
+286,OnePlus 13R 5G,Charcoal Black,Samsung,256,"8,999",7537,13
+287,realme GT 7T,Obsidian Black,vivo,512,"21,999",19499,17
+288,realme C71,Racing Yellow,vivo,64,"59,999",35999,13
+289,realme P4 5G,Light Green,OnePlus,128,"19,999",17999,28
+290,Samsung Galaxy S24 FE 5G,Steel Grey,Samsung,128,"59,999",52841,21
+291,Infinix Note 50s 5G+,Desert Gold,REDMI,128,"59,999",52898,40
+292,OnePlus 15R 5G,Starry Black,REDMI,512,"59,999",35999,17
+293,OnePlus 15R 5G,Carbon Black,OPPO,512,"65,999",39999,11
+294,Samsung Galaxy S24 FE 5G,Steel Grey,vivo,128,"17,999",14999,39
+295,Samsung Galaxy S24 FE 5G,Engine Blue,Motorola,256,"69,900",64900,39
+296,POCO M7 Plus 5G,Purple,MOTOROLA,128,"10,999",8999,28
+297,Apple iPhone 15,Indigo,Ai,256,"8,999",8039,8
+298,REDMI A4,Pantone Dazzling Blue,MOTOROLA,64,"54,999",47690,31
+299,realme Narzo 80 Lite 4G,Nitro Blue,OnePlus,64,"8,999",7980,30
+300,OnePlus 15R 5G,Pantone Shadow,OnePlus,256,"42,999",37999,12
+301,realme Narzo 80 Lite 4G,Nebula Green,realme,64,"30,999",21800,6
+302,realme GT 7T,Pantone Sparkling Grape,realme,256,"23,999",21499,20
+303,Samsung M56 5G,Mint,realme,128,"8,999",7299,31
+304,realme P4 5G,Cool Blue,Samsung,256,"10,999",8999,32
+305,POCO C71,Frost White,Infinix,64,"24,999",21999,32
+306,REDMI A4,Blue,OnePlus,64,"21,999",19499,21
+307,POCO M8,Mint,OnePlus,256,"21,999",19499,29
+308,realme P4 5G,Lavender Frost,Samsung,128,"9,999",6999,27
+309,realme P4 5G,Cosmic Orange,Samsung,128,"79,999",74999,20
+310,Ai+ Pulse,Master Gold,POCO,128,"42,999",36999,24
+311,Google Pixel 10,Ice Silver,Apple,256,"17,999",14917,26
+312,MOTOROLA Edge 60 Pro,Pink,REDMI,512,"42,999",36999,27
+313,realme Narzo 90x 5G,IceSense Blue,realme,128,"31,999",22999,48
+314,MOTOROLA Edge 60 Pro,Blazing Black,OnePlus,512,"36,999",28999,15
+315,POCO X7 Pro 5G,Stardust Purple,realme,256,"59,999",35999,17
+316,MOTOROLA Edge 60 Pro,Crystal Purple,realme,256,"9,999",8299,15
+317,Samsung Galaxy S24 FE 5G,Crystal Purple,Samsung,128,"35,999",31999,17
+318,POCO C71,Onyx Black,realme,128,"65,999",39999,20
+319,POCO F7 5G,Cyber Green,POCO,256,"65,999",39999,20
+320,Samsung Galaxy S24 FE 5G,Beach Gold,REDMI,256,"18,999",13499,16
+321,Samsung Galaxy S24 FE 5G,Obsidian Black,POCO,256,"34,999",31999,16
+322,POCO M7 Pro 5G,Starlight Blue,realme,128,"17,999",12393,21
+323,Apple iPhone 17 Pro,Starlight Blue,realme,256,"9,999",6999,51
+324,realme 16 Pro 5G,Stargaze Black,Ai,128,"39,999",34999,49
+325,POCO M6 Plus 5G,Stardust Purple,Google,128,"11,700",10935,42
+326,Ai+ Pulse,Stardust Purple,MOTOROLA,128,"13,999",13984,43
+327,realme GT 7T,Titanium Blue,realme,256,"14,999",11875,26
+328,Samsung M06 5G,Obsidian Black,MOTOROLA,128,"13,999",13975,15
+329,Redmi 14C 5G,Starry Black,POCO,128,"13,999",13984,17
+330,Realme Narzo 80 Lite 5G,Ultramarine,MOTOROLA,128,"16,999",16975,44
+331,Realme Narzo 80 Lite 5G,Titanium,Samsung,128,"8,999",8984,40
+332,Realme Narzo 80 Lite 5G,Ultramarine,POCO,128,"8,999",8984,38
+333,IQOO Z10 Lite 5G,Titanium,POCO,256,"14,999",10204,20
+334,realme Narzo 80 Lite 4G,Awesome Navy,Samsung,64,"13,999",9463,8
+335,realme Narzo 80 Lite 4G,Black Diamond,Samsung,64,"13,999",9415,4
+336,Redmi 14C 5G,Orchid Pink,POCO,128,"12,999",10185,31
+337,Redmi 14C 5G,MIdnight,Apple,128,"14,999",10602,32
+338,Redmi 14C 5G,Yellow,realme,128,"16,999",16975,32
+339,Redmi 14C 5G,Pink,POCO,64,"10,999",10984,21
+340,Redmi 14C 5G,Pink,Ai,128,"11,999",11984,29
+341,IQOO Z10 Lite 5G,Starlight,realme,256,"20,499",20475,15
+342,realme Narzo 80 Lite 4G,Green,Samsung,128,"18,999",18975,17
+343,REDMI A4,Green,Redmi,128,"18,999",18975,15
+344,IQOO Z10X 5G,MIdnight,Realme,256,"20,499",20475,17
+345,IQOO Z10X 5G,MIdnight,Realme,128,"45,999",45984,20
+346,IQOO Z10X 5G,Stargaze Black,Realme,128,"17,999",17984,20
+347,IQOO Z10X 5G,Onyx Black,IQOO,256,"17,999",17984,15
+348,SAMSUNG Galaxy A55 5G,Beach Gold,realme,256,"79,900",79885,20
+349,REDMI 13 5G,Hawaiian Blue,realme,128,"89,900",89885,42
+350,REDMI 13 5G,Black Diamond,Redmi,128,"79,900",79885,43
+351,Apple Iphone 15,Cyber Green,Redmi,128,"1,09,000",108985,24
+352,Apple Iphone 15,Cyber Green,Redmi,256,"79,900",79885,16
+353,Apple Iphone 15,Titanium Blue,Redmi,128,"79,900",79885,16
+354,Apple Iphone 15,Titanium Blue,Redmi,512,"89,900",89885,21
+355,Apple Iphone 15,Sparkle Purple,IQOO,128,"89,900",89885,27
+356,Apple Iphone 15,Starry Black,realme,128,"1,09,000",108985,26
+357,Apple Iphone 15,Titanium,REDMI,256,"14,999",10824,49
+358,Apple Iphone 15,Ultramarine,IQOO,256,"14,999",11875,27
+359,Apple Iphone 15,stellar blue/ steller blue,IQOO,512,"10,999",8284,26
+360,Redmi 14C 5G,Midnight Blue,IQOO,128,"17,999",13180,48
+361,Realme Narzo 80 Lite 5G,Blue,IQOO,128,"17,999",12984,17
+362,realme Narzo 80 Lite 4G,Golden,SAMSUNG,128,"1,799",934,27
+363,redmi 13 5G,Orchid Pink,REDMI,128,"14,999",12601,51
+364,redmi 13 5G,Nebula Noir,REDMI,128,"13,999",11602,44
+365,,stellar gold /steller gold,Apple,,"14,999",12601,40
+366,IQOO Z10 Lite 5G,Midnight Blue,Apple,128,"13,999",11602,38
+367,IQOO Z10 Lite 5G,Gold,Apple,128,"10,999",8784,20
+368,IQOO Z10 Lite 5G,Speed Blue,Apple,128,"10,999",8784,8
+369,IQOO Z10 Lite 5G,Speed Blue,Apple,128,"17,499",14604,4
+370,REDMI A4,Gold,Apple,64,"17,499",14604,31
+371,Redmi A4,Cyber Green,Apple,64,"10,999",8617,32
+372,IQOO Z10X 5G,Titanium Blue,Apple,128,"1,899",924,32
+373,IQOO Z10X 5G,Starry Black,Apple,128,"18,999",9620,21
+374,Lava Shark 5G,Astral Trail,,64,"9,999",5785,29
+375,,Onyx Black,,,"9,999",5685,48
+376,HMD Crest 5G,Crystal Purple,Redmi,128,"17,999",13180,20
+377,ringme BOLD P70,Crystal Purple,Realme,128,"44,999",37984,27
+378,ringme BOLD P70,Beach Gold,realme,128,"10,999",9085,24
+379,REDMI 13 5G,Obsidian Black,redmi,128,"18,999",10484,26
+380,ONEPLUS 13R 5G,Obsidian Black,redmi,256,"2,099",1253,27
+381,Lava Shark 5G,Ultramarine,Micromax,64,"2,099",1282,20
+382,hmd Crest 5G,Titanium,IQOO,128,"17,999",17984,20
+383,SIA PRO 5+ Golden smallest Phone,Ultramarine,IQOO,64,"15,999",15984,16
+384,,Titanium,IQOO,,"16,999",16975,16
+385,,Sage Green,IQOO,,"16,999",16975,15
+386,realme Narzo 50,Golden Mist,REDMI,128,"11,999",11984,27
+387,realme Narzo 50,Midnight Mist,Redmi,64,"44,999",44975,26
+388,SIA PRO 5+ Golden smallest Phone,Stardust Purple,IQOO,64,"13,999",13984,17
+389,IQOO Z10 Lite 5G,Black Diamond,IQOO,256,"14,999",11875,51
+390,IQOO Z10 Lite 5G,Orchid Pink,Lava,256,"13,999",13975,21
+391,REDMI A4,Sage Green,Micromax,128,"8,999",8984,15
+392,oneplus 13R 5g,Blazing Black,HMD,256,"8,999",8984,17
+393,Realme Narzo 80 Lite 5G,Starlight Blue,ringme,128,"10,999",10984,15
+394,Realme Narzo 80 Lite 5G,Starlight Blue,ringme,128,"20,499",20475,17
+395,Realme Narzo 80 Lite 5G,Stargaze Black,REDMI,128,"18,999",18975,49
+396,realme Narzo 80 Lite 4G,Stardust Purple,ONEPLUS,64,"18,999",18975,42
+397,realme Narzo 80 Lite 4G,Stardust Purple,Lava,64,"20,499",20475,43
+398,realme Narzo 80 Lite 4G,Raging Blue,hmd,128,"15,499",15484,40
+399,IQOO Z10X 5G,Space Gray,SIA,256,"11,999",10982,38
+400,IQOO Z10X 5G,MoonKnight Titanium,,128,"10,999",10484,44
+401,IQOO Z10X 5G,Raging Blue,,128,"13,999",13984,13
+402,IQOO Z10X 5G,MoonKnight Titanium,Micromax,256,"17,999",17984,31
+403,SAMSUNG M06 5G,MoonKnight Titanium,Micromax,128,"17,999",17984,30
+404,Lava Blaze Dragon 5G,Raging Blue,realme,128,"13,999",13984,16
+405,Lava Blaze Dragon 5G,Purple,realme,128,"13,999",13984,10
+406,Redmi 14C 5G,Midnight,SIA,128,"14,999",10204,30
+407,REDMI 13 5G,Midnight,IQOO,128,"13,999",9463,13
+408,REDMI 13 5G,Midnight,IQOO,128,"13,999",9415,11
+409,SAMSUNG M06 5G,Blue,REDMI,128,"12,999",10185,17
+410,SAMSUNG M06 5G,Green,oneplus,128,"14,999",10602,11
+411,Redmi 14C 5G,Blue,Realme,128,"33,999",33975,25
+412,Redmi 14C 5G,Red,Realme,128,"49,900",49885,13
+413,Redmi 14C 5G,Green,Realme,128,"31,999",31975,13
+414,Redmi 14C 5G,Midnight,realme,64,"31,999",31975,35
+415,Redmi 14C 5G,White,realme,128,"35,999",35975,22
+416,Iqoo Neo 10R 5G,Red,realme,256,"33,999",33975,5
+417,Apple IPHONE 8 PLUS,Green,IQOO,64,"35,999",35975,22
+418,Iqoo Neo 10R 5G,White,IQOO,128,"1,49,000",148985,5
+419,Iqoo Neo 10R 5G,Pink,IQOO,128,"1,29,000",128985,18
+420,Iqoo Neo 10R 5G,Blue,IQOO,256,"79,900",79885,13
+421,Iqoo Neo 10R 5G,Pink,SAMSUNG,256,"59,900",59885,6
+422,Iqoo Neo 10R 5G,Midnight,Lava,256,"69,900",69885,22
+423,Apple IPHONE 14 PRO,Red,Lava,512,"89,900",89885,8
+424,Apple IPHONE 14 PRO,Pink,Redmi,256,"59,900",59885,17
+425,Apple IPhone 14,White Titanium,REDMI,128,"89,900",89885,30
+426,Apple Iphone 13,Natural Titanium,REDMI,128,"59,900",59885,11
+427,Apple Iphone 13,Blue Titanium,SAMSUNG,256,"89,900",89885,29
+428,Apple Iphone 13,Black Titanium,SAMSUNG,512,"69,900",69885,14
+429,Apple Iphone 13,Gold,Redmi,128,"69,900",69885,26
+430,Apple Iphone 13,Gold,Redmi,512,"69,900",69885,11
+431,Apple Iphone 13,Silver,Redmi,128,"89,900",89885,8
+432,Apple Iphone 13,Purple,Redmi,512,"89,900",89885,25
+433,Apple Iphone 13,Awesome Iceblue,Redmi,256,"89,900",89885,26
+434,Apple Iphone 13,Starlight,Iqoo,256,"69,900",69885,8
+435,Apple Iphone 13,MIdnight,Apple,256,"69,900",69885,30
+436,Apple Iphone 13,Yellow,Iqoo,512,"59,900",59885,8
+437,Apple Iphone 13,Pink,Iqoo,512,"59,900",59885,12
+438,Apple Iphone 13,Pink,Iqoo,512,"1,34,900",134885,21
+439,Apple Iphone 13,Green,Iqoo,256,"1,34,900",134885,18
+440,Apple Iphone 13,MIdnight,Iqoo,256,"1,34,900",134885,25
+441,Apple Iphone 13,MIdnight,Apple,128,"1,34,900",134885,9
+442,Apple Iphone 13,Green,Apple,128,"1,34,900",134885,7
+443,Apple Iphone 15 Pro,Pink,Apple,128,"1,44,900",144885,16
+444,Apple Iphone 15 Pro,Yellow,Apple,128,"1,34,900",134885,48
+445,Apple Iphone 15 Pro,Green,Apple,128,"1,34,900",134885,7
+446,Apple Iphone 15 Pro,Starlight,Apple,128,"45,999",45984,6
+447,Apple IPHONE 14 PRO MAX,Starlight,Apple,128,"79,900",79885,28
+448,Apple IPHONE 14 PRO MAX,Yellow,Apple,256,"79,900",79885,9
+449,Apple IPHONE 14 PRO MAX,Black,Apple,128,"89,900",89885,11
+450,Apple IPHONE 14 PRO MAX,Speed Black,Apple,128,"79,900",79885,36
+451,SAMSUNG Galaxy A55 5G,Speed Black,Apple,256,"1,09,000",108985,20
+452,Apple Iphone 15,Red,Apple,128,"79,900",79885,10
+453,Apple Iphone 15,Purple,Apple,128,"89,900",89885,11
+454,Apple Iphone 15,Starlight,Apple,256,"1,09,000",108985,25
+455,Apple Iphone 15,Purple,Apple,128,"89,900",89885,11
+456,Apple Iphone 15,Red,Apple,512,"89,900",89885,10
+457,Apple Iphone 15,Midnight,Apple,128,"1,09,000",108985,6
+458,Apple Iphone 15,Red,Apple,256,"1,09,000",108985,8
+459,Apple Iphone 15,Blue,Apple,512,"1,09,000",108985,17
+460,Apple Iphone 15,Midnight,Apple,256,"89,900",89885,17
+461,Apple Iphone 15,Dark Chrome,Apple,256,"79,900",79885,10
+462,Apple Iphone 15,Cyber Green,Apple,512,"11,499",11484,16
+463,Apple Iphone 15,Cyber Green,Apple,512,"15,999",15984,11
+464,Apple Iphone 15,Titanium Blue,Apple,512,"17,999",17984,11
+465,Apple Iphone 15,Titanium Blue,Apple,256,"89,900",89885,11
+466,Apple 15,Sparkle Purple,Apple,128,"99,900",99885,16
+467,SAMSUNG Galaxy A06,Starry Black,Apple,64,"89,900",89885,9
+468,realme Narzo 50,Nebula Noir,Apple,64,"89,900",89885,23
+469,realme Narzo 50,Onyx Black,SAMSUNG,128,"89,900",89885,12
+470,Apple IPhone 14,Blue,Apple,256,"99,900",99885,10
+471,Apple IPhone 14,Golden,Apple,512,"99,900",99885,26
+472,Apple IPhone 14,Beach Gold,Apple,256,"99,900",99885,25
+473,Apple IPhone 14,Titanium,Apple,256,"89,900",89885,18
+474,Apple IPhone 14,Ultramarine,Apple,128,"24,999",24984,8
+475,Apple IPhone 14,stellar blue/ steller blue,Apple,512,"14,999",12601,22
+476,Apple IPhone 14,Black Diamond,Apple,512,"13,999",11602,7
+477,Apple IPhone 14,Hawaiian Blue,Apple,256,"14,999",12601,13
+478,Apple IPhone 14,Midnight Blue,Apple,256,"13,999",11602,16
+479,OnePlus Nord CE4,Stargaze Black,Apple,128,"10,999",8784,20
+480,IQOO Z10 Lite 5G,Orchid Pink,Apple,128,"10,999",8784,24
+481,IQOO Z10 Lite 5G,stellar gold /steller gold,Apple,128,"44,999",37984,17
+482,IQOO Z10 Lite 5G,Blazing Black,Apple,128,"14,999",11875,20
+483,IQOO Z10 Lite 5G,Midnight Blue,Apple,128,"9,999",5785,22
+484,REDMI A4,Speed Blue,Apple,64,"9,999",5685,30
+485,Redmi A4,Speed Blue,SAMSUNG,64,"10,999",8284,3
+486,ONEPLUS 13R 5G,Gold,realme,256,"17,499",14604,26
+487,Realme Narzo 80 Lite 5G,Cyber Green,realme,128,"17,499",14604,11
+488,ringme BOLD P70,Titanium Blue,Apple,128,"10,999",8617,19
+489,ringme BOLD P70,Starry Black,Apple,128,"17,999",12984,16
+490,realme Narzo 80 Lite 4G,Astral Trail,Apple,128,"17,999",13180,30
+491,IQOO Z10X 5G,Onyx Black,Apple,128,"18,999",9620,48
+492,IQOO Z10X 5G,Crystal Purple,Apple,128,"14,999",10824,20
+493,Lava Shark 5G,Crystal Purple,Apple,64,"17,999",13180,27
+494,redmi 13 5G,Beach Gold,Apple,128,"1,799",934,24
+495,redmi 13 5G,Obsidian Black,Apple,128,"10,999",9085,26
+496,HMD Crest 5G,Obsidian Black,Apple,128,"15,499",11175,27
+497,Redmi 14C 5G,Ultramarine,OnePlus,128,"1,899",924,20
+498,REDMI 13 5G,Titanium,,128,"18,999",10484,20
+499,,Ultramarine,,,"2,099",1253,16
+500,Lava Shark 5G,Titanium,IQOO,64,"2,099",1282,16
+501,SAMSUNG M06 5G,Sage Green,IQOO,128,"17,999",17984,15
+502,,Golden Mist,IQOO,,"15,999",15984,27
+503,hmd Crest 5G,Midnight Mist,IQOO,128,"16,999",16975,26
+504,,Stardust Purple,REDMI,,"16,999",16975,17
+505,,Black Diamond,Redmi,,"11,999",11984,51
+506,realme Narzo 50,Orchid Pink,ONEPLUS,128,"44,999",44975,21
+507,realme Narzo 50,Sage Green,Realme,64,"13,999",13984,15
+508,SIA PRO 5+ Golden smallest Phone,Blazing Black,ringme,64,"14,999",11875,17
+509,IQOO Z10 Lite 5G,Starlight Blue,ringme,256,"13,999",13975,15
+510,IQOO Z10 Lite 5G,Starlight Blue,realme,256,"8,999",8984,17
+511,REDMI A4,Stargaze Black,IQOO,128,"8,999",8984,49
+512,oneplus 13R 5g,Stardust Purple,IQOO,256,"10,999",10984,42
+513,Realme Narzo 80 Lite 5G,Stardust Purple,Lava,128,"20,499",20475,43
+514,Realme Narzo 80 Lite 5G,Raging Blue,redmi,128,"18,999",18975,40
+515,Realme Narzo 80 Lite 5G,Space Gray,redmi,128,"18,999",18975,38
+516,realme Narzo 80 Lite 4G,MoonKnight Titanium,HMD,64,"20,499",20475,44
+517,realme Narzo 80 Lite 4G,Raging Blue,Redmi,64,"15,499",15484,23
+518,realme Narzo 80 Lite 4G,MoonKnight Titanium,REDMI,128,"11,999",10982,16
+519,IQOO Z10X 5G,MoonKnight Titanium,Micromax,256,"10,999",10484,13
+520,IQOO Z10X 5G,Raging Blue,Lava,128,"13,999",13984,19
+521,IQOO Z10X 5G,Purple,SAMSUNG,128,"17,999",17984,11
+522,IQOO Z10X 5G,Midnight,Micromax,256,"17,999",17984,21
+523,SAMSUNG M06 5G,Midnight,hmd,128,"13,999",13984,7
+524,Lava Blaze Dragon 5G,Midnight,,128,"13,999",13984,12
+525,Lava Blaze Dragon 5G,Blue,,128,"14,999",10204,32
+526,Redmi 14C 5G,Green,Micromax,128,"13,999",9463,12
+527,REDMI 13 5G,Blue,Micromax,128,"13,999",9415,11
+528,REDMI 13 5G,Red,realme,128,"12,999",10185,23
+529,SAMSUNG M06 5G,Green,realme,128,"14,999",10602,12
+530,SAMSUNG M06 5G,Midnight,SIA,128,"33,999",33975,27
+531,Redmi 14C 5G,White,IQOO,128,"49,900",49885,13
+532,Redmi 14C 5G,Red,IQOO,128,"31,999",31975,10
+533,Redmi 14C 5G,Green,REDMI,128,"31,999",31975,27
+534,Redmi 14C 5G,White,oneplus,64,"35,999",35975,12
+535,Redmi 14C 5G,Pink,Realme,128,"33,999",33975,22
+536,Iqoo Neo 10R 5G,Blue,Realme,256,"35,999",35975,11
+537,Apple IPHONE 8 PLUS,Pink,Realme,64,"1,49,000",148985,8
+538,Iqoo Neo 10R 5G,Midnight,realme,128,"1,29,000",128985,12
+539,Iqoo Neo 10R 5G,Red,realme,128,"79,900",79885,22
+540,Iqoo Neo 10R 5G,Pink,realme,256,"59,900",59885,12
+541,Iqoo Neo 10R 5G,White Titanium,IQOO,256,"69,900",69885,13
+542,Iqoo Neo 10R 5G,Natural Titanium,IQOO,256,"89,900",89885,12
+543,Apple IPHONE 14 PRO,Blue Titanium,IQOO,512,"59,900",59885,14
+544,Apple IPHONE 14 PRO,Black Titanium,IQOO,256,"89,900",89885,12
+545,Apple IPhone 14,Gold,SAMSUNG,128,"59,900",59885,28
+546,Apple Iphone 13,Gold,Lava,128,"89,900",89885,27
+547,Apple Iphone 13,Silver,Lava,256,"69,900",69885,27
+548,Apple Iphone 13,Purple,Redmi,512,"69,900",69885,28
+549,Apple Iphone 13,Awesome Iceblue,REDMI,128,"69,900",69885,27
+550,Apple Iphone 13,Starlight,REDMI,512,"89,900",89885,27
+551,Apple Iphone 13,MIdnight,SAMSUNG,128,"89,900",89885,27
+552,Apple Iphone 13,Yellow,SAMSUNG,512,"89,900",89885,5
+553,Apple Iphone 13,Pink,Redmi,256,"69,900",69885,11
+554,Apple Iphone 13,Pink,Redmi,256,"69,900",69885,5
+555,Apple Iphone 13,Green,Redmi,256,"59,900",59885,17
+556,Apple Iphone 13,MIdnight,Redmi,512,"59,900",59885,9
+557,Apple Iphone 13,MIdnight,Redmi,512,"1,34,900",134885,28
+558,Apple Iphone 13,Green,Iqoo,512,"1,34,900",134885,13
+559,Apple Iphone 13,Pink,Apple,256,"1,34,900",134885,22
+560,Apple Iphone 13,Yellow,Iqoo,256,"1,34,900",134885,8
+561,Apple Iphone 13,Green,Iqoo,128,"1,34,900",134885,23
+562,Apple Iphone 13,Starlight,Iqoo,128,"1,44,900",144885,21
+563,Apple Iphone 15 Pro,Starlight,Iqoo,128,"1,34,900",134885,4
+564,Apple Iphone 15 Pro,Yellow,Iqoo,128,"1,34,900",134885,6
+565,Apple Iphone 15 Pro,Black,Apple,128,"45,999",45984,21
+566,Apple Iphone 15 Pro,Speed Black,Apple,128,"79,900",79885,15
+567,Apple IPHONE 14 PRO MAX,Speed Black,Apple,128,"79,900",79885,18
+568,Apple IPHONE 14 PRO MAX,Red,Apple,256,"89,900",89885,12
+569,Apple IPHONE 14 PRO MAX,Purple,Apple,128,"79,900",79885,32
+570,Apple IPHONE 14 PRO MAX,Starlight,Apple,128,"1,09,000",108985,22
+571,SAMSUNG Galaxy A55 5G,Purple,Apple,256,"79,900",79885,19
+572,Apple Iphone 15,Red,Apple,128,"89,900",89885,11
+573,Apple Iphone 15,Midnight,Apple,128,"1,09,000",108985,22
+574,Apple Iphone 15,Red,Apple,256,"89,900",89885,13
+575,Apple Iphone 15,Blue,Apple,128,"89,900",89885,24
+576,Apple Iphone 15,Midnight,Apple,512,"1,09,000",108985,12
+577,Apple Iphone 15,Dark Chrome,Apple,128,"1,09,000",108985,12
+578,Apple Iphone 15,Onyx Black,Apple,256,"1,09,000",108985,10
+579,Apple Iphone 15,Stargaze Black,Apple,512,"89,900",89885,25
+580,Apple Iphone 15,Beach Gold,Apple,256,"79,900",79885,20
+581,Apple Iphone 15,Orchid Pink,Apple,256,"11,499",11484,25
+582,Apple Iphone 15,Blazing Black,Apple,512,"15,999",15984,18
+583,Apple Iphone 15,Sparkle Purple,Apple,512,"17,999",17984,19
+584,Apple Iphone 15,Starry Black,Apple,512,"89,900",89885,22
+585,Apple Iphone 15,Titanium,Apple,256,"99,900",99885,22
+586,Apple 15,Ultramarine,Apple,128,"89,900",89885,23
+587,SAMSUNG Galaxy A06,Nebula Noir,Apple,64,"89,900",89885,25
+588,realme Narzo 50,Black Diamond,Apple,64,"89,900",89885,15
+589,realme Narzo 50,Hawaiian Blue,Apple,128,"99,900",99885,20
+590,Apple IPhone 14,stellar gold /steller gold,Apple,256,"99,900",99885,16
+591,Apple IPhone 14,stellar blue/ steller blue,Apple,512,"99,900",99885,4
+592,Apple IPhone 14,Cyber Green,Apple,256,"89,900",89885,4
+593,Apple IPhone 14,Cyber Green,SAMSUNG,256,"24,999",24984,19
+594,Apple IPhone 14,Titanium Blue,Apple,128,"1,799",934,43
+595,Apple IPhone 14,Titanium Blue,Apple,512,"14,999",11875,12
+596,Apple IPhone 14,Midnight Blue,Apple,512,"14,999",10824,4
+597,Apple IPhone 14,Blue,Apple,256,"10,999",8284,22
+598,Apple IPhone 14,Golden,Apple,256,"17,999",13180,13
+599,OnePlus Nord CE4,Gold,Apple,128,"15,499",11175,20
+600,,Midnight Blue,Apple,,"10,999",8784,4
+601,Realme Narzo 80 Lite 5G,Speed Blue,Apple,128,"10,999",8784,56
+602,Redmi 14C 5G,Speed Blue,Apple,128,"17,499",14604,53
+603,realme Narzo 80 Lite 4G,Dynamic Grey,Apple,128,"17,499",14604,48
+604,REDMI 13 5G,Ice Silver,Apple,128,"44,999",37984,20
+605,SAMSUNG M06 5G,Purple,Apple,128,"17,999",12984,27
+606,REDMI A4,Carbon Black,Apple,64,"17,999",13180,24
+607,Redmi A4,Marine Drift,Apple,64,"10,999",9085,26
+608,IQOO Z10X 5G,Sparkle Red,Apple,128,"1,899",924,27
+609,IQOO Z10X 5G,Astral Trail,SAMSUNG,128,"10,999",8617,20
+610,ONEPLUS 13R 5G,Nebula Noir,realme,256,"14,999",12601,20
+611,redmi 13 5G,Cool Blue,realme,128,"13,999",11602,16
+612,redmi 13 5G,Obsidian Black,Apple,128,"14,999",12601,16
+613,Lava Shark 5G,Majestic Green,Apple,64,"13,999",11602,15
+614,,Neon Cyan,Apple,,"18,999",9620,27
+615,Lava Shark 5G,Geek Black,Apple,64,"9,999",5785,26
+616,IQOO Z10 Lite 5G,Awesome Iceblue,Apple,128,"9,999",5685,17
+617,IQOO Z10 Lite 5G,Pulse Green,Apple,128,"2,099",1253,51
+618,IQOO Z10 Lite 5G,3) (White,Apple,128,"2,099",1282,21
+619,IQOO Z10 Lite 5G,Nitro Blue,Apple,128,"18,999",10484,15
+620,HMD Crest 5G,Sea Blue,Apple,128,"17,999",17984,17
+621,ringme BOLD P70,Beach Gold,OnePlus,128,"15,999",15984,15
+622,ringme BOLD P70,Charcoal Black,,128,"21,999",18999,17
+623,SIA PRO 5+ Golden smallest Phone,Frost,,64,"17,999",12393,49
+624,,Black,Micromax,,"9,999",6999,42
+625,,Master Grey,Realme,,"17,999",14999,43
+626,hmd Crest 5G,Sapphire Black,Redmi,128,"19,999",17999,40
+627,realme Narzo 50,Misty Lavender,realme,128,"9,999",6999,38
+628,realme Narzo 50,Charcoal Black,REDMI,64,"44,999",39027,44
+629,Tecno Pova 7 Pro 5G,Light Green,SAMSUNG,128,"44,999",39830,4
+630,POCO M6 Plus 5G,PANTONE Bronze Green,REDMI,128,"9,999",8299,4
+631,Ai+ Pulse,Black,Redmi,128,"10,999",9699,40
+632,POCO M7 Plus 5G,Mint Breeze,IQOO,128,"11,999",8999,13
+633,Infinix Note 50s 5G+,Orchid Purple,IQOO,128,"21,999",18999,28
+634,Ai+ Pulse,Hot Pink,ONEPLUS,128,"21,999",18999,8
+635,OnePlus 13R 5g,Sparkle Red,redmi,256,"45,999",29630,7
+636,OnePlus 13R 5G,Pebble Grey,redmi,256,"24,999",19499,23
+637,POCO C71,Pink,Lava,128,"94,999",89999,24
+638,realme C71,Master Gold,Micromax,128,"16,999",13199,16
+639,vivo Y19e,Phoenix Gold,Lava,64,"8,999",8530,16
+640,Tecno Pova 7 Pro 5G,Ink Black,IQOO,128,"10,999",8965,16
+641,Tecno Pova 7 Pro 5G,Moonlight Silver,IQOO,128,"54,999",47688,16
+642,Samsung Galaxy A55 5G,Titanium Silver,IQOO,256,"79,999",74999,3
+643,Infinix GT 30 5G+ Pulse Green 128,Master Gold,IQOO,128,"26,499",20474,7
+644,Nothing Phone,Pebble Grey,HMD,512,"48,999",44999,33
+645,realme Narzo 90x 5G,Aqua Blue,ringme,128,"17,999",14890,12
+646,realme C71,Carbon Black,ringme,64,"17,999",12499,18
+647,realme Narzo 80 Lite 4G,Orchid Purple,SIA,128,"59,999",52898,25
+648,OnePlus 15R 5G,Indigo,,256,"30,999",21800,17
+649,Google Pixel 10,Lit Violet,,256,"34,999",29999,15
+650,Samsung Galaxy A17 5G,Aquamarine,Micromax,256,"22,999",16999,31
+651,realme 16 Pro+ 5G,Sea Blue,Micromax,256,"59,999",52841,21
+652,Samsung Galaxy M17 5G,Deadpool,hmd,128,"36,999",33999,19
+653,POCO M6 Plus 5G,Jaisalmer Gold,realme,128,"27,999",20999,22
+654,OnePlus 15R 5G,IceSense Blue,realme,512,"12,999",9499,14
+655,Samsung M56 5G,Phoenix Gold,Tecno,128,"36,999",33999,12
+656,MOTOROLA Edge 70,Navy,POCO,256,"9,999",6999,21
+657,Samsung Galaxy F36 5G,IceSense Blue,Ai,128,"48,999",44999,9
+658,OnePlus 15R 5G,IceSense Black,POCO,512,"40,999",35999,10
+659,realme 16 Pro 5G,Lemongrass,Infinix,256,"8,499",6699,26
+660,Motorola Edge 50 Fusion,Turquoise Green,Ai,256,"17,999",14699,31
+661,Ai+ Nova 5G,Moonlight Silver,OnePlus,128,"11,999",8999,31
+662,realme 16 Pro 5G,Sapphire Black,OnePlus,256,"43,999",39999,12
+663,Ai+ Pulse,Phantom Black,POCO,128,"39,999",36999,14
+664,realme 16 Pro+ 5G,Midnight Shadow,realme,256,"17,999",14999,11
+665,vivo T4 Ultra 5G,IceSense Black,vivo,256,"21,999",11399,38
+666,Tecno Spark Go 2,Racing Yellow,Tecno,64,"39,999",36999,10
+667,Samsung Galaxy M17 5G,Phoenix Gold,Tecno,128,"79,999",74999,10
+668,vivo Y19e,Azure Sky,Samsung,64,"13,999",9999,7
+669,realme 16 Pro+ 5G,PANTONE Spring Bud,Infinix,128,"24,999",22650,7
+670,realme 16 Pro 5G,Icesense Black,Nothing,256,"10,999",9699,13
+671,POCO M7 Plus 5G,Sapphire Black,realme,128,"37,999",23999,28
+672,Acer Super ZX 5G,Mint Breeze,realme,128,"9,999",7999,10
+673,realme 16 Pro 5G,Yellow,realme,256,"46,999",41999,5
+674,Google Pixel 10,Forest Blue,OnePlus,256,"42,999",37999,9
+675,Samsung Galaxy F06 5G,Cool Blue,Google,128,"99,999",74999,9
+676,IQOO Z10R 5G,Master Grey,Samsung,256,"42,999",37999,4
+677,realme C71,Pearl White,realme,128,"46,999",41999,10
+678,POCO F6 5G,Aquamarine,Samsung,256,"79,999",74999,37
+679,REDMI A5,Aurora Cloud,POCO,128,"11,999",10999,12
+680,realme GT 7T,Geek Black,OnePlus,512,"16,499",13531,7
+681,vivo T4 Ultra 5G,Icesense Blue,Samsung,256,"16,499",13588,28
+682,Samsung Galaxy S25 Plus 5G,Awesome Olive,MOTOROLA,256,"37,999",33999,49
+683,realme GT 7T,Power Black,Samsung,256,"11,999",9999,26
+684,realme GT 7T,Icesense Black,OnePlus,512,"42,999",37999,11
+685,Google Pixel 10,Icesense Blue,realme,256,"42,999",37999,11
+686,Tecno Spark Go 5G,Hawaiian Blue,Motorola,128,"44,999",39999,10
+687,Samsung Galaxy M17 5G,Titanium Chrome,Ai,128,"11,999",9999,10
+688,Samsung Galaxy M17 5G,Violet,realme,128,"54,999",49999,9
+689,POCO F7 5G,Frost White,Ai,512,"45,999",34999,26
+690,Tecno Spark 30C 5G,Azure Sky,realme,64,"19,499",16990,20
+691,realme GT 7T,Aurora Cloud,vivo,256,"54,999",49129,23
+692,realme GT 7T,Titanium Chrome,Tecno,256,"33,999",24999,10
+693,vivo T4 Ultra 5G,Cobalt Violet,Samsung,512,"27,999",20999,10
+694,Tecno Spark 30C 5G,Onyx Black,vivo,64,"8,999",7299,24
+695,MOTOROLA Razr 60,Stargaze Black,realme,256,"45,999",41999,10
+696,realme Gt 7,Beach Gold,realme,256,"39,999",30999,10
+697,Samsung Galaxy M17 5G,Orchid Pink,POCO,128,"26,999",24899,14
+698,OnePlus 15R 5G,Blazing Black,Acer,256,"14,999",12999,6
+699,POCO X7 Pro 5G,Sparkle Purple,realme,256,"23,999",19999,10
+700,Motorola Edge 50 Fusion,Starry Black,Google,256,"52,999",41999,19
+701,POCO C71,Titanium,Samsung,64,"52,999",40249,14
+702,realme 16 Pro+ 5G,Ultramarine,IQOO,256,"14,499",11999,21
+703,realme 14 Pro+ 5G,Nebula Noir,realme,512,"52,999",41999,10
+704,IQOO Z10R 5G,Black Diamond,POCO,256,"48,999",37999,15
+705,Tecno Spark 30C 5G,Hawaiian Blue,REDMI,128,"19,999",13800,23
+706,Tecno Pova 7 Pro 5G,stellar gold /steller gold,realme,256,"38,999",37695,19
+707,realme Gt 7,stellar blue/ steller blue,vivo,512,"22,999",16999,5
+708,Samsung Galaxy A56 5G,Cyber Green,Samsung,256,"35,999",31999,16
